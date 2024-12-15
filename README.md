@@ -19,4 +19,6 @@ To set up and run the QuickRentApp project locally, follow these steps:
 
 5. Run the application 
 
-    npm run dev
+    npm run dev.
+
+   DEPLOY LINK:https://gilded-otter-0ca8e1.netlify.app/
